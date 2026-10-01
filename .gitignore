@@ -1,0 +1,10 @@
+/target/
+/uploads/
+/.settings/
+/.classpath
+/.project
+/.factorypath
+
+# Legacy report assets are retained locally but do not describe baitap11.
+/BAO-CAO-DeThi03.md
+/report/
